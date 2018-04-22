@@ -1,8 +1,8 @@
 # horsesounds
 
-To help me Vue.js.
-Inspired by that weird place on Youtube where apparently people just upload horse sounds.
-We've all been there.
+To help me learn Vue.js.
+
+Inspired by beer...and that weird place on Youtube where apparently people just upload horse sounds.
 
 ## Build Setup
 
